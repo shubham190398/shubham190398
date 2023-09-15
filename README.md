@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in Computer Vision, Natural Language Processing, Augmented Reality, Reinforcement learning
+- 👀 I’m currently working on various applications in Computer Vision, Natural Language Processing, Augmented Reality, Reinforcement learning, Audio Processing and OCR.
 - 🌱 Learning something new in the ML/AI Sphere everyday
-- 💞️ I’m looking to collaborate on CV and YOLO
+- 💞️ Open to any opportunities in the above or to try something new.
 - 📫 How to reach me shubham.acharya@kare4u.in
 
 <!---
